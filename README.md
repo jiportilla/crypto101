@@ -57,4 +57,5 @@ The signing of a message can be later verified by others users in possession of 
 
 See the following example in **Go Language**:
 
-[Lab 3 - Public key cryptography](hhttps://go.dev/play/p/8WdoyET4599)
+
+[Lab 3 - Public key cryptography](https://go.dev/play/p/8WdoyET4599)
